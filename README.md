@@ -14,5 +14,4 @@ GIF 변환의 영향으로 게임 로딩이 느린 것처럼 보이지만 실제
 
 # 사용 메소드 일부
 
-
-![Valorant_2023_05_20_-_23_29_30_02_AdobeExpress (1) (1)](https://github.com/2023-1-Web-Programming/HTML5_Game_Project/assets/38041722/704ce6ce-c8ae-4875-b60e-610b12ea3234)
+![캡처](https://github.com/2023-1-Web-Programming/HTML5_Game_Project/assets/38041722/c7431263-6362-434b-93b2-1b1260a14e03)

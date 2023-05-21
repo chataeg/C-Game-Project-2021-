@@ -1,5 +1,4 @@
 # C-Game-Project
-Repository of 2021-2 C language  Game Project.
 
 2021-1 학기 SW설계기초의 4인 게임 프로젝트.
 
